@@ -13,7 +13,6 @@ st.write('Cette application prédit les valeurs immobilières basées sur les en
 
 uploaded_file = st.file_uploader("Choisissez un fichier CSV pour évaluation", type='csv')
 if uploaded_file is not None:
-    # Lire les données
     data = pd.read_csv(uploaded_file)
 
     # Vérifier si les colonnes nécessaires sont présentes
