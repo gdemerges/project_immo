@@ -17,5 +17,5 @@ L'objectif de ce projet est de créer une application pour prédire la valeur de
 - data : Données en format CSV d'entrainement.
 - docs : présentation en pdf du projet
 - model : joblib
-- notebooks : EDA / MODELISATION / PREDICTION
+- notebooks : EDA / model / predict
 - gitignore
