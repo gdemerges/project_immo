@@ -11,7 +11,7 @@ L'objectif de ce projet est de créer une application pour prédire la valeur de
 - Nettoyage et prétraitement des données.
 - Entraînement d'un modèle de prédiction des prix.
 
-## Structures
+## Structure
 
 - app : application Streamlit 
 - data : Données en format CSV d'entrainement.
